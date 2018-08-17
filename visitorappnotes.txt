@@ -1,0 +1,89 @@
+vizito back end
+
+
+we want the tablet to reach up to cloud to get updates, not vice versa where cloud reaches down to tablets 
+
+
+ldap(when it comes to rest of world) lookups for active directory(when it comes to microsoft)-- holds accounts for everyone at bd 
+
+
+sign in/sign out feature
+
+access to active directory--fuzzy search-- types in name and fill out automatically 
+
+email address
+
+first name/last name
+
+u.s citizen
+
+badge number 
+
+person here to see
+
+signature
+
+
+
+photo 
+
+phone number
+
+position/ title
+
+company name
+
+*****We need to capture everyone that comes in facility******
+
+GPS location must be enabled 
+
+backend --webserver(use a restful api) must have DB
+
+	--email function
+
+blue, white, texas black for color 
+
+need asistance? tab
+
+need admin login
+
+
+backup 3:30am to server on backend everyday
+
+I got front end 
+
+
+
+
+fuzzy search is key-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
